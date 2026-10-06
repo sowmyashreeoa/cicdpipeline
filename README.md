@@ -23,7 +23,7 @@ Open `tests/tests.html`. It shows PASS/FAIL for each test.
 1. Create a branch, e.g. `git checkout -b break-it`
 2. In `calculator.js`, change `case "+": return a + b;` to `return a - b;`
 3. Push and open a pull request. The CI check turns red and names the failing tests.
-4. Revert the change, push again. CI turns green.
+4. Revert the change, push again. CI turns green..
 
 ## Project layout
 
